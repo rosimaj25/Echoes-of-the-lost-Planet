@@ -1,4 +1,4 @@
-# Echoes of the Lost Planet — Multi-Level Edition
+# Echoes of the Lost Planet
 
 ## Objective
 Restore the energy system of the Lost Planet across **5 increasingly difficult levels**.
